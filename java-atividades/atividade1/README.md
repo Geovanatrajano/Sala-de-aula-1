@@ -308,5 +308,6 @@ Crie uma classe chamada `ArCondicionado` com os seguintes atributos:
 - Organize e identifique os arquivos de cada atividade.
 - Teste o funcionamento dos métodos e verifique se as regras estabelecidas estão sendo respeitadas.
 - Salve suas respostas na pasta identificada com seu nome, seguindo as instruções do repositório.
+- prazo para entregar: até dia **05/11.**
 
 **Bons estudos e boa programação!** 🚀
