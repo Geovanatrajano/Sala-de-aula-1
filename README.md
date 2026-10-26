@@ -18,7 +18,7 @@ Repositório destinado às atividades práticas e aos exercícios de programaç�
 - Organização das respostas dos alunos;
 - Instruções para envio das entregas.
 
-➡️ **Acesse:** [Atividades de Java](https://github.com/marciarluiz/Sala-de-aula-1/java-atividades)
+➡️ **Acesse:** [Atividades de Java](https://github.com/marciarluiz/Sala-de-aula-1/tree/main/java-atividades)
 
 ### 📐 Modelagem de Sistemas
 
@@ -31,7 +31,7 @@ Repositório destinado às atividades de Engenharia de Requisitos, análise e mo
 - Orientações para elaboração de diagramas e documentação;
 - Instruções para envio das entregas.
 
-➡️ **Acesse:** [Atividades de Modelagem de Sistemas](https://github.com/marciarluiz/Sala-de-aula-1/modelagem-de-sistemas)
+➡️ **Acesse:** [Atividades de Modelagem de Sistemas](https://github.com/marciarluiz/Sala-de-aula-1/tree/main/modelagem-atividades)
 
 ## 🚀 Como utilizar este espaço
 
